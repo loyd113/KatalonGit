@@ -6,6 +6,10 @@
    <elementGuidId>5fdbbab7-aecc-47ab-a602-91419de14591</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'pv_id_5_0' and (text() = 'Active' or . = 'Active')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#pv_id_5_0</value>
       </entry>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>90d41ea6-2a23-4336-bd4e-0008b502b372</webElementGuid>
+      <webElementGuid>0ec3d11f-6f82-4118-b29b-1cf4c0ef717b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pv_id_5_0</value>
-      <webElementGuid>b473fb26-b358-49fe-9d07-c4d867248d66</webElementGuid>
+      <webElementGuid>49580dd8-da88-48b9-9d94-776776afb1b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-select-option p-focus</value>
-      <webElementGuid>9b7ab1af-9c70-4441-a10c-60b5eab6c86c</webElementGuid>
+      <webElementGuid>9fb96f68-e41e-4fcf-9153-c43c6585e0b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>c60d1112-8a8f-4650-bbc8-7ac03c3f7b97</webElementGuid>
+      <webElementGuid>5cbfdd6f-3550-4a3c-84d0-4a2f76b8fe99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Active</value>
-      <webElementGuid>2f686709-fe3f-4bc5-896c-63b20fa68b8c</webElementGuid>
+      <webElementGuid>a04a4b5d-8845-4348-bab0-9eac19d12a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1889d3f0-343b-4684-a8ad-9f0a8557a6cc</webElementGuid>
+      <webElementGuid>3e889d2d-7cd9-48e3-8ee0-26e6da986200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dd7041aa-4d5d-4f85-a434-ee47fc8fd51f</webElementGuid>
+      <webElementGuid>2f0e964f-5d5d-491f-b99e-7a0557f9502c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>aria-setsize</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>d9da706b-5028-48fc-9f82-b246a2df1299</webElementGuid>
+      <webElementGuid>17cb91a7-f10c-4a49-9a35-6d394a087948</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>aria-posinset</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>737d6c38-35d6-47c5-ab5e-23fb597050e8</webElementGuid>
+      <webElementGuid>be375be2-afca-44ed-8c71-eb27b9ca9677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>data-p-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cbcb26a6-3e19-4289-ae10-47f79f258bcd</webElementGuid>
+      <webElementGuid>f3d2ee3a-c932-4fff-a512-89c4967e0738</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>data-p-focused</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4896a710-1346-4283-a91c-244aa200337f</webElementGuid>
+      <webElementGuid>28ba4acd-0068-4c9b-8eb1-48dad381f3a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e53c887c-524d-4649-8641-6692c4ec33e3</webElementGuid>
+      <webElementGuid>f177dfcd-4289-464a-8cd6-8cdb0c8bfdaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>1dd79e01-cb8c-4ceb-ba1b-1f00531b6d71</webElementGuid>
+      <webElementGuid>fa932cc5-0dde-42bf-a662-e79d88992f80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -127,7 +131,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Active</value>
-      <webElementGuid>d1cfc44b-7b53-45e5-881c-5669587ab577</webElementGuid>
+      <webElementGuid>fa2dd3ad-7726-4ff8-b70f-a51dfa52df78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,7 +139,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pv_id_5_0&quot;)</value>
-      <webElementGuid>aebc77ec-3add-41b9-89f9-7645f00f0c97</webElementGuid>
+      <webElementGuid>98c70807-488c-40fe-99d8-50dd3407a785</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -143,7 +147,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='pv_id_5_0']</value>
-      <webElementGuid>c2e479ec-7cbc-46b3-a986-0dbdf3d7ba5a</webElementGuid>
+      <webElementGuid>1043dbea-0b02-436d-8b32-f81a1604688b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +155,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='pv_id_5_list']/li</value>
-      <webElementGuid>7d84a660-3c3d-4cc5-bb3a-c1281fa878d2</webElementGuid>
+      <webElementGuid>9bd4ea38-a992-4953-ab90-bbde2ad27727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +163,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
-      <webElementGuid>0baf116d-6e17-40ca-a3ee-fe262412fddd</webElementGuid>
+      <webElementGuid>8796d2d7-41a4-4eb7-a87c-96fb9b774da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +171,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/preceding::li[1]</value>
-      <webElementGuid>6d3adf62-7ac7-4d76-b593-3ecf7d6cb04f</webElementGuid>
+      <webElementGuid>eb59e524-1012-4003-83bf-2809ded4372e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,7 +179,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/ul/li</value>
-      <webElementGuid>27ab494c-d548-4131-b161-eb0ae3a6db12</webElementGuid>
+      <webElementGuid>b3fc29b5-5073-46b2-8023-b759a8e40a71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,6 +187,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'pv_id_5_0' and (text() = 'Active' or . = 'Active')]</value>
-      <webElementGuid>7a0a26a8-f03a-4b6b-b9d4-0c4b6b03861b</webElementGuid>
+      <webElementGuid>fe3373a7-64cf-408f-b445-6b871eb96f81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

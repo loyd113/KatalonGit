@@ -17,3 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://fika.infonetglobal.tech/en/login')
+
+WebUI.setText(findTestObject('Page_Login - FIKA/input_Email_p-inputtext p-component block px-4 py-3.5 w-full'), 
+    'admin@fika.app')
+
+WebUI.setText(findTestObject('Page_Login - FIKA/input_Password_p-inputtext p-component block px-4 py-3.5 w-full (1)'), 
+    'welcome123')
+
+WebUI.click(findTestObject('Object Repository/Page_Login - FIKA/button_Login'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Login - FIKA/a_Dashboard'), 
+    0)
+
