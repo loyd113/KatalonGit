@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Achieve Operational Excellence with Fik_6e572a</name>
+   <tag></tag>
+   <elementGuidId>af21a48c-61c6-4f89-a84f-6876982dc8fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7b46a06-5aec-437d-8266-08bb8fa9b81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full col-span-7 2xl:col-span-8 lg:relative before:content-[''] before:absolute before:lg:-ml-10 before:left-0 before:inset-y-0 before:bg-gradient-to-b before:from-cyan-600 before:to-cyan-500 before:w-screen before:lg:w-[800%] after:content-[''] after:absolute after:inset-y-0 after:left-0 after:w-screen after:lg:w-[800%] after:bg-texture-white after:bg-fixed after:bg-center after:lg:bg-[25rem_-25rem] after:bg-no-repeat</value>
+      <webElementGuid>8dac8c76-f8f6-4454-bbc7-fa28214c73ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Achieve Operational Excellence with Fika TechnologiesUnlock the potential of Fika, where businesses streamline processes, enhance compliance, and drive efficiency with our comprehensive operations management software. Join us today to transform your operational workflow and achieve new heights of productivity.Over 7k+ strong and growing! Your journey begins here.</value>
+      <webElementGuid>5324c149-80f4-4d83-b417-9e3d891209a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;flex min-h-screen flex-col bg-slate-100&quot;]/div[1]/div[@class=&quot;fixed container grid w-screen inset-0 h-screen grid-cols-12 lg:max-w-[1550px] 2xl:max-w-[1750px] pl-14 pr-12 xl:px-24&quot;]/div[@class=&quot;h-full col-span-7 2xl:col-span-8 lg:relative before:content-[''] before:absolute before:lg:-ml-10 before:left-0 before:inset-y-0 before:bg-gradient-to-b before:from-cyan-600 before:to-cyan-500 before:w-screen before:lg:w-[800%] after:content-[''] after:absolute after:inset-y-0 after:left-0 after:w-screen after:lg:w-[800%] after:bg-texture-white after:bg-fixed after:bg-center after:lg:bg-[25rem_-25rem] after:bg-no-repeat&quot;]</value>
+      <webElementGuid>bc6f04e4-17d3-43ac-a588-76e291deae76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div[2]</value>
+      <webElementGuid>94d47777-612b-4c86-abea-cce60096104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[3]</value>
+      <webElementGuid>3f5a4813-5251-4bcd-82cd-0b9577b3f2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::div[4]</value>
+      <webElementGuid>d2cdfc3a-7f5b-43c5-820c-103e36df9906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>478ec402-9b60-47c7-974a-42281ef97ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Achieve Operational Excellence with Fika TechnologiesUnlock the potential of Fika, where businesses streamline processes, enhance compliance, and drive efficiency with our comprehensive operations management software. Join us today to transform your operational workflow and achieve new heights of productivity.Over 7k+ strong and growing! Your journey begins here.' or . = 'Achieve Operational Excellence with Fika TechnologiesUnlock the potential of Fika, where businesses streamline processes, enhance compliance, and drive efficiency with our comprehensive operations management software. Join us today to transform your operational workflow and achieve new heights of productivity.Over 7k+ strong and growing! Your journey begins here.')]</value>
+      <webElementGuid>f1f8e5a3-6cdb-42fc-af51-16cc2c79d402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
