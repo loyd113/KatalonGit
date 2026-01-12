@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_National Holiday</name>
+   <tag></tag>
+   <elementGuidId>6b7e7a26-f216-4803-9de7-8a1accd23b8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_1_content']/ul/li/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e3863a1-bb8e-4614-8110-315970c82e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/master/national-holiday</value>
+      <webElementGuid>d4955cff-fd4a-42dc-b919-cffaee51b10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>nationalHoliday</value>
+      <webElementGuid>bf96dafe-9032-459e-b81a-78d66d81ebf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>cc0912f2-0aa1-4aa0-83f2-51047fdd805a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>National Holiday</value>
+      <webElementGuid>b40526ad-148b-450a-96ae-0be9e3e940b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_1_content&quot;)/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;layout-menuitem-category&quot;]/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>c6910767-8574-43c6-ac53-88a4819c5737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_1_content']/ul/li/ul/li[5]/a</value>
+      <webElementGuid>019997cf-70e9-44f5-bffa-121a29e6213f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::a[1]</value>
+      <webElementGuid>ff8fb676-4a6d-4586-bc8d-f88806dac883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::a[2]</value>
+      <webElementGuid>a074bcca-aec0-4162-94b2-c9927244214d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner'])[1]/preceding::a[1]</value>
+      <webElementGuid>f4ed9635-9005-4483-a8c7-32c134102b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/master/national-holiday')]</value>
+      <webElementGuid>afec21b6-4371-47bc-813d-c8aa2d36dcd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>76f080cc-a7f9-4fe8-8993-ea7508f55903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/master/national-holiday' and (text() = 'National Holiday' or . = 'National Holiday')]</value>
+      <webElementGuid>1b47b281-e863-4730-9871-6ecb95421f0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

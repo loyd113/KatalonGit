@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Not Required_p-select-dropdown</name>
+   <tag></tag>
+   <elementGuidId>f41ba542-d4e6-4633-abbe-e7de649c3a30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_26']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_26 > div.p-select-dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11538f6f-f064-4b5f-8860-b50e38ff25a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-select-dropdown</value>
+      <webElementGuid>8a03f2e7-b598-45a2-9f2c-edbaad288fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>e00ea52d-95bf-4f00-bc75-c1c40ed9a1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_26&quot;)/div[@class=&quot;p-select-dropdown&quot;]</value>
+      <webElementGuid>bc1b23cc-3f32-4100-89fc-e35689ccd190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_26']/div</value>
+      <webElementGuid>c04959bb-7d12-4eae-b131-fba7627b95c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Attachment'])[2]/following::div[2]</value>
+      <webElementGuid>40601d3d-9177-4597-ae33-775d0f67dda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instruction'])[2]/preceding::div[1]</value>
+      <webElementGuid>85a23749-d7a0-4da4-83c2-b1c590f629d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Photo (for instruction)'])[2]/preceding::div[3]</value>
+      <webElementGuid>15d49ec3-08c3-470b-9a2c-d3c88ffc489d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>1a0a5041-7b45-4abd-aad2-fce8708be0a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

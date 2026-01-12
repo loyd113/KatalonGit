@@ -6,16 +6,15 @@
    <elementGuidId>e90f4d0f-c97f-4d6a-a944-c08892119ff1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;__nuxt&quot;)/div[@class=&quot;flex min-h-screen flex-col bg-slate-100&quot;]/div[1]/div[@class=&quot;container grid lg:h-screen grid-cols-12 lg:max-w-[1550px] 2xl:max-w-[1750px] py-10 px-5 sm:py-14 sm:px-10 md:px-36 lg:py-0 lg:pl-14 lg:pr-12 xl:px-24&quot;]/div[@class=&quot;relative z-50 h-full col-span-12 p-7 sm:p-14 bg-white rounded-2xl lg:bg-transparent lg:pr-10 lg:col-span-5 xl:pr-24 2xl:col-span-4 lg:p-0 before:content-[''] before:absolute before:inset-0 before:-mb-3.5 before:bg-white/40 before:rounded-2xl before:mx-5&quot;]/div[@class=&quot;relative z-10 flex flex-col justify-center w-full h-full py-2 lg:py-32&quot;]/div[@class=&quot;mt-10&quot;]/form[1]/div[@class=&quot;mt-6&quot;]/input[@class=&quot;p-inputtext p-component block px-4 py-3.5 w-full&quot;][count(. | //*[@type = 'password']) = count(//*[@type = 'password'])]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__nuxt&quot;)/div[@class=&quot;flex min-h-screen flex-col bg-slate-100&quot;]/div[1]/div[@class=&quot;container grid lg:h-screen grid-cols-12 lg:max-w-[1550px] 2xl:max-w-[1750px] py-10 px-5 sm:py-14 sm:px-10 md:px-36 lg:py-0 lg:pl-14 lg:pr-12 xl:px-24&quot;]/div[@class=&quot;relative z-50 h-full col-span-12 p-7 sm:p-14 bg-white rounded-2xl lg:bg-transparent lg:pr-10 lg:col-span-5 xl:pr-24 2xl:col-span-4 lg:p-0 before:content-[''] before:absolute before:inset-0 before:-mb-3.5 before:bg-white/40 before:rounded-2xl before:mx-5&quot;]/div[@class=&quot;relative z-10 flex flex-col justify-center w-full h-full py-2 lg:py-32&quot;]/div[@class=&quot;mt-10&quot;]/form[1]/div[@class=&quot;mt-6&quot;]/input[@class=&quot;p-inputtext p-component block px-4 py-3.5 w-full&quot;][count(. | //*[@type = 'password']) = count(//*[@type = 'password'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cb3a0e19-cd31-4355-bafd-802eb243e904</webElementGuid>
+      <webElementGuid>40990616-47fd-4d25-b068-e3e8dcd6edb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>be317132-d807-4899-ac63-3c566ecd4c53</webElementGuid>
+      <webElementGuid>c3f2f5b9-94b8-4313-9390-b54f3fe1987e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-inputtext p-component block px-4 py-3.5 w-full</value>
-      <webElementGuid>6897e0f7-ec27-4b60-892c-9a50e86bde37</webElementGuid>
+      <webElementGuid>e838128d-3a5b-47bf-9785-89cefd1ded74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +50,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>**********</value>
-      <webElementGuid>4d5986d9-da91-431a-9900-e3c4e564eb70</webElementGuid>
+      <webElementGuid>6810a3f9-a19c-4038-8c8a-292e4f3f06dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +58,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>inputtext</value>
-      <webElementGuid>84b1e323-f021-4b2b-b3e1-f09504fc99f4</webElementGuid>
+      <webElementGuid>41c8a7a6-1c47-4b9b-b2cd-dc8abcc3ea27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +66,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>c1c39eb5-3d6c-4f98-8b4a-30e6608403de</webElementGuid>
+      <webElementGuid>36081ddb-c759-437f-865d-cea102bfd2cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -75,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__nuxt&quot;)/div[@class=&quot;flex min-h-screen flex-col bg-slate-100&quot;]/div[1]/div[@class=&quot;container grid lg:h-screen grid-cols-12 lg:max-w-[1550px] 2xl:max-w-[1750px] py-10 px-5 sm:py-14 sm:px-10 md:px-36 lg:py-0 lg:pl-14 lg:pr-12 xl:px-24&quot;]/div[@class=&quot;relative z-50 h-full col-span-12 p-7 sm:p-14 bg-white rounded-2xl lg:bg-transparent lg:pr-10 lg:col-span-5 xl:pr-24 2xl:col-span-4 lg:p-0 before:content-[''] before:absolute before:inset-0 before:-mb-3.5 before:bg-white/40 before:rounded-2xl before:mx-5&quot;]/div[@class=&quot;relative z-10 flex flex-col justify-center w-full h-full py-2 lg:py-32&quot;]/div[@class=&quot;mt-10&quot;]/form[1]/div[@class=&quot;mt-6&quot;]/input[@class=&quot;p-inputtext p-component block px-4 py-3.5 w-full&quot;]</value>
-      <webElementGuid>01973fb9-b88e-4e96-878e-5e089c8a514b</webElementGuid>
+      <webElementGuid>01e1ceea-0b0e-494b-9a6a-f2ee2ec2749c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@value=''])[2]</value>
-      <webElementGuid>ef39afe4-c2e4-4df7-88df-6ca57b0c4a31</webElementGuid>
+      <webElementGuid>0ea2e415-fc19-48f7-8a1a-17bc559eac70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/form/div/input[2]</value>
-      <webElementGuid>10ec33ec-3b13-4b4a-bbf3-64d9827de0e3</webElementGuid>
+      <webElementGuid>a6590fb8-2746-404a-8068-5b22b48bf3d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>3b786b4b-fa6c-40b9-87f0-be3518929472</webElementGuid>
+      <webElementGuid>bd2e8e94-1c13-4521-a6ca-032222e33f35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = '**********']</value>
-      <webElementGuid>0173c805-85db-432e-bdac-f574a748adbb</webElementGuid>
+      <webElementGuid>7f43d99e-e270-4c93-9757-d2d9788834de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

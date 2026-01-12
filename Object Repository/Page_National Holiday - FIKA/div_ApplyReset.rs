@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ApplyReset</name>
+   <tag></tag>
+   <elementGuidId>addc5b0c-4624-4272-8c3e-dad90438b0e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_6_content']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-end.mt-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a069f8be-0c04-400e-98d9-38e1a6a667a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-end mt-4</value>
+      <webElementGuid>98d9f586-17a2-4966-bfc0-b34e7e257b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ApplyReset</value>
+      <webElementGuid>3bf55a3b-b8f7-44c9-bc8e-9474ae53d595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_6_content&quot;)/div[@class=&quot;p-panel-content&quot;]/div[@class=&quot;flex justify-end mt-4&quot;]</value>
+      <webElementGuid>c00d5e40-8cab-4a14-95c4-69b3379599ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_6_content']/div/div[2]</value>
+      <webElementGuid>f103b990-b064-4907-ba94-5874b8d6c7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Description'])[1]/following::div[1]</value>
+      <webElementGuid>27c3f63b-8634-47ad-bf06-a1276ea5a2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period'])[1]/following::div[2]</value>
+      <webElementGuid>8b541c56-16e0-4907-aa6a-7c3126a52326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>bc0c21c8-0e77-4b99-92d3-b708b0733278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ApplyReset' or . = 'ApplyReset')]</value>
+      <webElementGuid>286eea3e-00b3-4c63-a4cc-d68cb246d78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

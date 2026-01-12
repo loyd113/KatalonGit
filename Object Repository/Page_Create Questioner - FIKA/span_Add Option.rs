@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Option</name>
+   <tag></tag>
+   <elementGuidId>570faee4-6bf1-41af-90c3-9b17e59de971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_27_content']/div/div/div/div/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-secondary.p-button-outlined.mt-4 > span.p-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66561800-47b2-484c-8935-4eb0dd055d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>72143a9f-329b-437f-bbf1-0e8a991d9f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0ebc4639-fb2b-44bf-a43e-3fb2023e63ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Option</value>
+      <webElementGuid>03b7d98d-bba7-4412-b7b0-fbb791a48aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_27_content&quot;)/div[@class=&quot;p-panel-content&quot;]/div[1]/div[@class=&quot;grid space-y-4&quot;]/div[@class=&quot;col-12 md:col-6&quot;]/div[@class=&quot;field&quot;]/div[@class=&quot;w-full&quot;]/button[@class=&quot;p-button p-component p-button-secondary p-button-outlined mt-4&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>c29af28c-07d5-4ecf-8e1e-0641623338f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_27_content']/div/div/div/div/div/div/button/span[2]</value>
+      <webElementGuid>d96a4f35-a8f4-49f1-9c65-68ac45bc4c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection Answer'])[1]/following::span[6]</value>
+      <webElementGuid>f037b8d0-a19c-4ce3-bb11-5ffeb616585d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Attachment'])[2]/preceding::span[1]</value>
+      <webElementGuid>e9e0f5ee-cdcf-40e8-aca9-2e1315e97f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Option']/parent::*</value>
+      <webElementGuid>d200a153-6e74-470d-a2bf-618fa0c9b103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/button/span[2]</value>
+      <webElementGuid>764429d2-8902-49bb-8b7a-e38b0bb58c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Option' or . = 'Add Option')]</value>
+      <webElementGuid>3c38cfe5-3e6e-4dd3-9514-b9f65c3d1c52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

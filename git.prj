@@ -6,11 +6,12 @@
    <UUID>4cea629a-afc7-4b96-a981-3985619cfddb</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Marcel\git\KatalonGit\git.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

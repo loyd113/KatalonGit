@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes  No</name>
+   <tag></tag>
+   <elementGuidId>f3c97183-9927-43fe-98ad-07abe444aac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pv_id_34_1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_34_1 > span.p-select-option-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f890f794-8947-4e1b-81de-2f07529bb9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-select-option-label</value>
+      <webElementGuid>56423c57-6d8b-401b-850a-ec132a355ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>optionlabel</value>
+      <webElementGuid>c621afa2-7418-48f5-9251-718a582722b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes / No</value>
+      <webElementGuid>d6ef102a-51cc-4e18-bc6d-c3a52e3f826f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_34_1&quot;)/span[@class=&quot;p-select-option-label&quot;]</value>
+      <webElementGuid>ba3d8d30-b8d3-4954-8151-bd58d5eebc0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pv_id_34_1']/span</value>
+      <webElementGuid>6d61c62d-f006-4bb1-a513-d0abe3a4274b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection'])[1]/following::span[1]</value>
+      <webElementGuid>8b71970b-fe1b-424a-afe6-16b003b979aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[1]/preceding::span[1]</value>
+      <webElementGuid>2302f742-6626-4622-b46d-3b7e42a943ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes / No']/parent::*</value>
+      <webElementGuid>d6dcc012-6119-4faf-9b19-f41f07ecbdc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>66617e5c-3a3f-45eb-b2c5-835c235efb4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes / No' or . = 'Yes / No')]</value>
+      <webElementGuid>70bea92f-ad3d-4655-92bf-e8a573b8f24e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

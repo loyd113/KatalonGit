@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Category</name>
+   <tag></tag>
+   <elementGuidId>d42f0909-48ca-4729-bd70-ae0d6eb5c400</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div[2]/div[2]/main/div[2]/div/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-end.my-4 > button.p-button.p-component.p-button-outlined > span.p-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f9325ed7-a49b-4028-a0d6-8cebea098d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>f329cac6-4fd0-4cf2-844c-95c6fe0687e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>63b0a5bd-07e0-4e24-9b90-496d0c8deee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Category</value>
+      <webElementGuid>99c1213d-52a8-4b12-8d12-47de8bcf5121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-slate-100&quot;]/div[@class=&quot;z-0 dark:relative min-h-screen w-full overflow-x-hidden transition-all duration-300 xl:max-w-[calc(100%_-_270px)] xl:ms-[270px]&quot;]/div[@class=&quot;mx-auto w-full mt-0&quot;]/main[1]/div[@class=&quot;page-container-content&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;bg-white p-6 shadow-md rounded-lg&quot;]/div[@class=&quot;flex justify-end my-4&quot;]/button[@class=&quot;p-button p-component p-button-outlined&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>f3bbe30b-c34a-4f80-86ab-4064d98d4c08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div[2]/div[2]/main/div[2]/div/div/div/button/span[2]</value>
+      <webElementGuid>4bc96d21-6172-4966-a101-5896018cfa59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::span[2]</value>
+      <webElementGuid>cf6d518a-e19c-4c36-b3f5-b9ab6618c572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[2]</value>
+      <webElementGuid>3ba605fc-7c8e-4fea-9e33-5961efffec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[1]</value>
+      <webElementGuid>cea97715-2279-4861-bbde-a6c53c2d4648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/preceding::span[2]</value>
+      <webElementGuid>0015391b-0ccb-43ac-8bd5-e1a11ef3d4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Category']/parent::*</value>
+      <webElementGuid>5aa8212e-ed09-4de2-a772-467d356955b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/span[2]</value>
+      <webElementGuid>dbe24497-a0c0-4c7b-8d06-8d7e6b7306e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Category' or . = 'Add Category')]</value>
+      <webElementGuid>5c7a0245-6e4e-4731-abf5-8e7161a6deab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
