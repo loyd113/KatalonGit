@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Issue Report</name>
+   <tag></tag>
+   <elementGuidId>7be4a04a-1338-4ff8-b925-80092511e6ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_1_content']/ul/li/ul/li[17]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(17) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>013cc62e-efec-4a8b-8a7c-4f8fd2f36c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/report/issue</value>
+      <webElementGuid>d00e5dfb-a252-4a64-bc7f-ec4725de1b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>menu.issueReport</value>
+      <webElementGuid>bdf3d4d4-310f-4b9c-807f-6efc45706d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>a6f5566a-5e47-49a5-8f89-5261b1f479a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Issue Report</value>
+      <webElementGuid>a2b4868d-9fd9-41a6-8e10-9b2a2c01f69b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_1_content&quot;)/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;layout-menuitem-category&quot;]/ul[1]/li[17]/a[1]</value>
+      <webElementGuid>232e1e85-c10a-4aae-a148-2333c092df43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_1_content']/ul/li/ul/li[17]/a</value>
+      <webElementGuid>f68fa1b5-d481-46d9-9acd-f57372080191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner Report'])[1]/following::a[1]</value>
+      <webElementGuid>49f35663-2845-4629-a23f-71e9840b6a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::a[2]</value>
+      <webElementGuid>c7830801-0cab-45e1-be46-9d0e1a387c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIKA v1.0.0'])[1]/preceding::a[1]</value>
+      <webElementGuid>a4d97dcf-c089-40a3-8899-a60f776821cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/report/issue')]</value>
+      <webElementGuid>6e2b2d4b-a686-48b0-be3e-bf9a0b679ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[17]/a</value>
+      <webElementGuid>c0322693-b826-4102-b124-64b119298c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/report/issue' and (text() = 'Issue Report' or . = 'Issue Report')]</value>
+      <webElementGuid>3dc3dec1-263e-4dac-8489-20d3db349e4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

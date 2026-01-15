@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Questioner</name>
+   <tag></tag>
+   <elementGuidId>02b8b782-68f6-408d-8554-7a6aa1df14dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='questioner']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-multiselect-label.p-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ae5ef822-d597-4fcf-8f38-26c88eb711db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-label p-placeholder</value>
+      <webElementGuid>57a6399b-e39f-4239-a8af-9b4cce1d021b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a67ad51d-afdd-463e-be7b-aa26f9952e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Questioner</value>
+      <webElementGuid>93f91543-71bf-41b2-882a-b67d8d8e25bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;questioner&quot;)/div[@class=&quot;p-multiselect-label-container&quot;]/div[@class=&quot;p-multiselect-label p-placeholder&quot;]</value>
+      <webElementGuid>a5c8b9f0-511a-4118-9a68-afa4d657ef62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='questioner']/div[2]/div</value>
+      <webElementGuid>19917ca0-bc73-4ea5-87ff-f4524a4e2de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner'])[1]/following::div[4]</value>
+      <webElementGuid>9f8a740d-a0e2-40ca-86bd-62bbb3ce0b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditor'])[1]/preceding::div[2]</value>
+      <webElementGuid>1221a65e-7d27-49f5-a065-5753f7216a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Questioner']/parent::*</value>
+      <webElementGuid>af2222ae-d168-442d-b7a4-10df1c0e5a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>20fc6254-24e6-47a9-96ed-2c322588612d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Questioner' or . = 'Select Questioner')]</value>
+      <webElementGuid>19520ac4-fa69-40c7-913c-7792c2d3c3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

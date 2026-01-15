@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_December_p-icon p-button-icon</name>
+   <tag></tag>
+   <elementGuidId>fc932475-f674-4b71-b44e-f4961a9fc89b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='December'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-icon-only.p-button-secondary.p-button-rounded.p-button-text.p-datepicker-next-button > svg.p-icon.p-button-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>bc1cff3e-aed4-46f0-a6c1-5104edff57e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>247fcb3e-4261-4fd6-92da-c2bb7ad8c024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>a198c8fc-f23b-468d-8298-5222d485ac44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>69160e12-7357-4872-b168-85dc32b6bdab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>f7391bec-8d8f-4ad3-9b03-31d92ce31189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e5d1e439-89ef-4c2f-8683-77053a90408f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon p-button-icon</value>
+      <webElementGuid>d0e60a55-9819-4f9e-a97b-2217bdb943f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>54f319bf-a88c-4f60-ba8b-16827665b07f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_5_panel&quot;)/div[@class=&quot;p-datepicker-calendar-container&quot;]/div[@class=&quot;p-datepicker-calendar&quot;]/div[@class=&quot;p-datepicker-header&quot;]/button[@class=&quot;p-button p-component p-button-icon-only p-button-secondary p-button-rounded p-button-text p-datepicker-next-button&quot;]/svg[@class=&quot;p-icon p-button-icon&quot;]</value>
+      <webElementGuid>07665379-5df9-433b-a67b-e03244389e53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>dd830bf2-8f16-4d81-9b0a-d1c2853d87bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIKA v1.0.0'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>ea28eccd-4cdf-4411-bcc5-94f8e79a182f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c267009a-2ab6-4624-aa3b-b591866e8cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>0c63fdcf-465b-417b-b928-eedfa24a820c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Departments</name>
+   <tag></tag>
+   <elementGuidId>ead4ece5-0022-40f7-acf0-36fd81b18fa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='department']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-multiselect-label.p-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>926fce8b-f144-410b-bcaf-04023ba7219a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-label p-placeholder</value>
+      <webElementGuid>e31c0e8b-f31b-4fc2-9969-09879ca317d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>938ccda0-ac62-46c5-84b7-19811358aa30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Departments</value>
+      <webElementGuid>a5369dae-07c2-439d-be2f-e8fa4e937df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;department&quot;)/div[@class=&quot;p-multiselect-label-container&quot;]/div[@class=&quot;p-multiselect-label p-placeholder&quot;]</value>
+      <webElementGuid>c579e20d-2f77-4138-ac2c-443c248f24e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='department']/div[2]/div</value>
+      <webElementGuid>da1cd015-b1bb-48ba-ae3b-b81d91b79900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::div[4]</value>
+      <webElementGuid>d88a227e-14f9-4398-bce5-6b96708aacce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::div[9]</value>
+      <webElementGuid>5de19305-e9eb-4227-9e1a-132a3aa9c5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner'])[1]/preceding::div[2]</value>
+      <webElementGuid>5f964b77-f93e-4f0d-8387-81f95603f159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Departments']/parent::*</value>
+      <webElementGuid>85009a08-1b59-4fea-98f0-6a2bf3a47c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>08876711-278e-43f3-87af-b47cf1c1eaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Departments' or . = 'Select Departments')]</value>
+      <webElementGuid>f8c10a8c-7854-4e3b-9870-617d5aa7de9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
