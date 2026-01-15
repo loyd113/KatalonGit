@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>207786b5-81ee-46b6-b9ca-eae0c6f141a6</webElementGuid>
+      <webElementGuid>ce42632e-7558-46ad-9940-2004ac4a1645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button p-component p-button-icon-only p-button-secondary p-button-outlined p-button-sm mr-2</value>
-      <webElementGuid>c30a165a-73ee-40b3-b91d-482556a5da9e</webElementGuid>
+      <webElementGuid>c2593df1-bdb2-4750-a2ed-999666e4a66d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>251b0a77-7c0f-43d6-a87b-68bda2746b29</webElementGuid>
+      <webElementGuid>8c86328b-50b9-465b-9a5f-3c89700d3e69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7523fd60-660c-4a26-8d8d-f84a20c50fde</webElementGuid>
+      <webElementGuid>78243663-96a3-46ef-9419-3c82fdf0ecaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2e0fd002-bb21-40d2-8f89-b2253f4526c2</webElementGuid>
+      <webElementGuid>f7e9ae6b-4e18-4198-a2ae-95a4583f013b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-p-severity</name>
       <type>Main</type>
       <value>secondary</value>
-      <webElementGuid>0e74a1df-8cc8-49f4-9c84-78c77e01e39e</webElementGuid>
+      <webElementGuid>d67c27bf-40c5-4f14-8628-bd77cb871d4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>fd8ffae6-327e-42ea-89fc-725155e0d546</webElementGuid>
+      <webElementGuid>cb774b9b-f6b6-42cd-8f7f-e95ee0756ec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>data-pd-tooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>63f4a47e-a902-4f7b-b436-11cdb09be4b5</webElementGuid>
+      <webElementGuid>5482f2a0-acac-4fb2-90fa-7d47319ea6d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value> </value>
-      <webElementGuid>1b10eed7-fada-4f85-b96b-e19191021976</webElementGuid>
+      <webElementGuid>abf1c873-dab4-410f-8176-e26c07e9f4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-slate-100&quot;]/div[@class=&quot;z-0 dark:relative min-h-screen w-full overflow-x-hidden transition-all duration-300 xl:max-w-[calc(100%_-_270px)] xl:ms-[270px]&quot;]/div[@class=&quot;mx-auto w-full mt-0&quot;]/main[1]/div[@class=&quot;page-container-content&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;bg-white p-6 shadow-md rounded-lg&quot;]/div[2]/div[@class=&quot;p-panel p-component p-panel-toggleable mb-3 cursor-move ui-panel-content&quot;]/div[@class=&quot;p-panel-header !bg-slate-300 mb-4&quot;]/div[@class=&quot;p-panel-header-actions&quot;]/button[@class=&quot;p-button p-component p-button-icon-only p-button-secondary p-button-outlined p-button-sm mr-2&quot;]</value>
-      <webElementGuid>be127446-bffe-49f0-a3e5-21f72fa23854</webElementGuid>
+      <webElementGuid>df953bdf-9aa4-4df4-a091-7cc36a9f3d56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>a2413507-2a44-495f-bdc2-f04ac5f8884c</webElementGuid>
+      <webElementGuid>37235dad-3200-4330-9052-92cf8e0f9eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__nuxt']/div/div[2]/div[2]/main/div[2]/div/div/div[2]/div/div/div[2]/button</value>
-      <webElementGuid>4cfdb343-8236-4e79-bf35-a4374d5220c4</webElementGuid>
+      <webElementGuid>2b3e9203-d49e-4e21-9b85-55ea5e0c4c3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Category'])[1]/following::button[1]</value>
-      <webElementGuid>da2d27cc-a51a-477a-9632-32ff9e32601c</webElementGuid>
+      <webElementGuid>bd3a1eb4-2ac1-42fc-bfe9-2c19469d13a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[2]</value>
-      <webElementGuid>c386297c-6e5f-4d30-9858-e3ccaa038b2f</webElementGuid>
+      <webElementGuid>615b9275-0566-4fb9-8e15-ef8d5d900240</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[3]</value>
-      <webElementGuid>b6f1abcf-9efe-488d-97b2-5649ca2ec770</webElementGuid>
+      <webElementGuid>f2db08cc-f13d-437f-af0a-07f424efd915</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/preceding::button[3]</value>
-      <webElementGuid>f06b567e-da7f-4395-a6bb-36b558d655a3</webElementGuid>
+      <webElementGuid>41bb59a0-3e9c-473d-b966-e5d8b1822b53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/button</value>
-      <webElementGuid>49aabd2b-652b-4e0b-9307-d79d82119c68</webElementGuid>
+      <webElementGuid>21c901af-6398-4121-9dad-6ce3dcbc6be4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +159,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
-      <webElementGuid>0cfdfbfa-e20d-45d8-8d50-95dea1d1bc63</webElementGuid>
+      <webElementGuid>5bb27ba4-39ce-43a1-8232-13ecdda1c263</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

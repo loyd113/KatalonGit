@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Filter_p-icon p-button-icon</name>
+   <tag></tag>
+   <elementGuidId>0f86c8a9-870f-414e-bb56-0ab34fd01bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.p-icon.p-button-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>fc8dc56c-dc84-4b8a-a095-1c12b0384b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>3c680a3e-3cfd-4bed-a395-3ce5912dc540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>e424cf5e-1c8a-4e39-87f8-c064417feb78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>660e1f09-428e-4ee5-8d65-42b5e280a8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>66d112cb-6e30-4bce-aabc-f9cf1341b990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>becc0ae4-100e-4a0a-afc5-7be0bb8a3cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon p-button-icon</value>
+      <webElementGuid>3b09da39-0989-4c79-aa7d-f0f99b92ed70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db79d66e-3034-4225-a862-4480c0990a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-slate-100&quot;]/div[@class=&quot;z-0 dark:relative min-h-screen w-full overflow-x-hidden transition-all duration-300 xl:max-w-[calc(100%_-_270px)] xl:ms-[270px]&quot;]/div[@class=&quot;mx-auto w-full mt-0&quot;]/main[1]/div[@class=&quot;page-container-content&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;p-panel p-component p-panel-toggleable&quot;]/div[@class=&quot;p-panel-header&quot;]/div[@class=&quot;p-panel-header-actions&quot;]/button[@id=&quot;pv_id_6_header&quot;]/svg[@class=&quot;p-icon p-button-icon&quot;]</value>
+      <webElementGuid>54db72c4-f61e-4349-9df8-7eeb6cdc939f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>529f3d93-1338-4654-a375-cd1b349f7c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9632469c-1361-4d9b-9293-fc71f62239b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Departments'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>528fb946-5973-4e28-956f-1c978d0e8d61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

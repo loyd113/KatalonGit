@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Auditors_p-multiselect-dropdown</name>
+   <tag></tag>
+   <elementGuidId>e5a56479-8148-49f9-91fa-425f7727d5e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#auditor > div.p-multiselect-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='auditor']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0afec29-9072-4deb-b095-3c31bd6505f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-dropdown</value>
+      <webElementGuid>37de50c6-8fd0-46a3-9c65-5fb827a2ea62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>b92c76c6-785b-44bb-a8f1-2beafb7a9ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auditor&quot;)/div[@class=&quot;p-multiselect-dropdown&quot;]</value>
+      <webElementGuid>d7f85ff4-0d10-4e2b-8d8f-e46d1a2d0cda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='auditor']/div[3]</value>
+      <webElementGuid>c7911ebe-8d8d-4c40-8ab6-ee507f2319b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditor'])[1]/following::div[5]</value>
+      <webElementGuid>1515e007-936e-4b9c-88d6-a2870a613f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Type'])[1]/preceding::div[1]</value>
+      <webElementGuid>bc803044-5c81-4c09-bd96-c29a1874641f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]</value>
+      <webElementGuid>83dbe3d7-1568-4bb7-95da-e9de1cd73091</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

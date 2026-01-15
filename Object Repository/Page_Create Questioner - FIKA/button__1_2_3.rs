@@ -6,12 +6,16 @@
    <elementGuidId>2629398d-526c-45de-b165-3ce5daf08651</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='pv_id_27_header']</value>
+         <key>BASIC</key>
+         <value>id(&quot;pv_id_39_header&quot;)[count(. | //*[@id = 'pv_id_39_header']) = count(//*[@id = 'pv_id_39_header'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#pv_id_27_header</value>
+         <value>#pv_id_39_header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(@id,'_header')]//i[contains(@class,'pi-angle-down')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5807dd8c-d32e-40f1-bbc1-81bd385ec721</webElementGuid>
+      <webElementGuid>efbfd023-52b5-4dc2-a54b-035237969bb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +35,15 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button p-component p-button-icon-only p-button-secondary p-button-rounded p-button-text p-panel-toggle-button</value>
-      <webElementGuid>9241e5eb-ace0-4fb5-b5c5-19ef4fe22414</webElementGuid>
+      <webElementGuid>34c5b959-674b-4390-abf8-69ac3bb80331</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cdb0074a-7c20-4f55-b2fb-b74754cbad54</webElementGuid>
+      <webElementGuid>67d7745b-584e-40ff-a587-e133cdd1ba19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>pctogglebutton</value>
-      <webElementGuid>46479e43-1774-4e88-a9fe-963a2ad1324e</webElementGuid>
+      <webElementGuid>7cf36d14-6fdf-47d5-813f-e7f0e7f3ef19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8ec951b1-dcb0-4227-a4a9-d092a166e745</webElementGuid>
+      <webElementGuid>04388cc5-0591-455d-832f-cd8a15ccbf41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,23 +67,23 @@
       <name>data-p-severity</name>
       <type>Main</type>
       <value>secondary</value>
-      <webElementGuid>444cc018-fa77-4c89-b243-55dc06c6e5d3</webElementGuid>
+      <webElementGuid>41ab7a2c-633e-45fc-abe5-1277abb0570e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pv_id_27_header</value>
-      <webElementGuid>bfa9c06a-f58e-4cab-9113-cebe1edc2372</webElementGuid>
+      <value>pv_id_39_header</value>
+      <webElementGuid>6ee1a1de-4961-42d7-8cb7-1d70639749fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>pv_id_27_content</value>
-      <webElementGuid>e80211a6-8ac6-4042-99ae-2d7327253baf</webElementGuid>
+      <value>pv_id_39_content</value>
+      <webElementGuid>009949c9-2730-481d-af16-1dc34447f4b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a780a441-6503-4657-91ee-6da54ca82831</webElementGuid>
+      <webElementGuid>e9bf19f4-fc81-4bca-840d-202d4121d7b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>data-pc-extend</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>388d6634-9f11-4c8f-9bc3-8754fa5d7a11</webElementGuid>
+      <webElementGuid>754eaabb-9f68-4f10-bf62-520fd48ae0ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,31 +107,31 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>8b729f8c-89e5-4b06-b4dd-b4b0044128c3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value> </value>
-      <webElementGuid>44ea2a90-5224-4b3d-96c1-1cf9d9265eb3</webElementGuid>
+      <webElementGuid>db32a170-49b2-45d3-82bc-a47a37bf1512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>d3b98be6-1ec2-459e-b5b1-ff8341cdda04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pv_id_27_header&quot;)</value>
-      <webElementGuid>98b3410e-7250-4afe-afb0-cef74f0ee931</webElementGuid>
+      <value>id(&quot;pv_id_39_header&quot;)</value>
+      <webElementGuid>66b42964-fe7f-4ebf-9f39-b1af74f07382</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='pv_id_27_header']</value>
-      <webElementGuid>b47a5f1a-ec00-4766-bad8-fe99b6d872c1</webElementGuid>
+      <value>//button[@id='pv_id_39_header']</value>
+      <webElementGuid>d80a6115-411e-4b41-82ec-051e72179c0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +139,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pv_id_13_content']/div/div/div[2]/div/div[2]/button[2]</value>
-      <webElementGuid>20f19519-eb2e-4022-be86-3e26e1ffb207</webElementGuid>
+      <webElementGuid>0245892f-e403-45ce-bb8b-268fae047f8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +147,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Photo (for instruction)'])[1]/following::button[2]</value>
-      <webElementGuid>65ebae65-fa5f-461a-ad84-e685d5a48c45</webElementGuid>
+      <webElementGuid>70866a63-fb35-4401-9e3c-8ae5956a1733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +155,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection Answer'])[1]/preceding::button[1]</value>
-      <webElementGuid>9a58c80f-00ea-40c8-af28-2b7848d0c540</webElementGuid>
+      <webElementGuid>000b1e88-b470-43b4-8218-0aa751170121</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +163,23 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div[2]/button[2]</value>
-      <webElementGuid>56afdbb4-5c23-4689-94b9-5855e17e7bd6</webElementGuid>
+      <webElementGuid>92c1fc6d-c004-4639-b709-6711434581a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'pv_id_39_header' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>11eb37af-0e0a-42b1-91d5-12eee1234e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pv_id_27_header']</value>
+      <webElementGuid>24a53ec0-6cff-4529-beb6-ee538327deb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +187,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'pv_id_27_header' and (text() = ' ' or . = ' ')]</value>
-      <webElementGuid>f9bf8e50-e40a-44db-bac3-c44833a47b23</webElementGuid>
+      <webElementGuid>b512adac-2d1a-4f82-8b08-50a8c728148a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

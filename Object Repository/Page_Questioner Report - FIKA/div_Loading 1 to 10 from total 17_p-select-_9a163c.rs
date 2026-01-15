@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Loading 1 to 10 from total 17_p-select-_9a163c</name>
+   <tag></tag>
+   <elementGuidId>08386870-e900-4467-ba6a-eedcd2259c71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_8 > div.p-select-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_8']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c04e5751-fb18-4dbf-8f2e-cfb9ddeac56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-select-dropdown</value>
+      <webElementGuid>f9202c79-9e21-4788-b097-a73adda646d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>31eec6c5-2c06-4e45-9938-42911088acdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_8&quot;)/div[@class=&quot;p-select-dropdown&quot;]</value>
+      <webElementGuid>12894668-f1b8-4dc6-aeea-30deb22c455f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_8']/div</value>
+      <webElementGuid>fe8d0c27-063c-4e96-9d99-cb94c6a8f128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading 1 to 10 from total 17'])[1]/following::div[2]</value>
+      <webElementGuid>c0fb6cf0-8be1-4ac5-afe6-8c95ea26ed79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[10]/following::div[4]</value>
+      <webElementGuid>eedcc5a7-4e02-4aeb-a052-35dc3dd53bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::div[5]</value>
+      <webElementGuid>03b10f07-e130-4c15-bd3a-ef7a8c058211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/preceding::div[5]</value>
+      <webElementGuid>284f236d-cb29-44ef-9efe-aa0a6db144ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/div/div</value>
+      <webElementGuid>507438b9-e45e-4594-9ea2-9de943ccf47a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

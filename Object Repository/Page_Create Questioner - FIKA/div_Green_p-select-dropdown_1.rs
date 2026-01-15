@@ -6,56 +6,60 @@
    <elementGuidId>03ed295c-a181-42a6-b9fe-aad36cfd7869</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='pv_id_31']/div</value>
+         <key>BASIC</key>
+         <value>//div[@class = 'p-select-dropdown' and @data-pc-section = 'dropdown']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#pv_id_31 > div.p-select-dropdown</value>
+         <value>#pv_id_43 > div.p-select-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[normalize-space()='Green'])[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fd38067f-1521-4d79-ab03-54045fa4b80e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>p-select-dropdown</value>
-      <webElementGuid>d0ced77f-ce8b-4c54-a5bf-1bfd88dfe661</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-pc-section</name>
-      <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>304ad0e6-15ed-4b59-81f0-f80b85870cdc</webElementGuid>
+      <webElementGuid>104fc6eb-4343-48d2-bb4e-a0675f9ed978</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-select-dropdown</value>
+      <webElementGuid>5dd24519-c3cb-47eb-aa93-96be9db071ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>0ff4fd18-cfac-4601-8528-b33c70631dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pv_id_31&quot;)/div[@class=&quot;p-select-dropdown&quot;]</value>
-      <webElementGuid>28dc2327-a464-44c9-a1ea-f4aa3108381f</webElementGuid>
+      <value>id(&quot;pv_id_43&quot;)/div[@class=&quot;p-select-dropdown&quot;]</value>
+      <webElementGuid>0e076b6a-3da0-44cf-b021-1133bc0a0da5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pv_id_31']/div</value>
-      <webElementGuid>2ca948ca-7883-44b5-b275-6d4d5ae70a1c</webElementGuid>
+      <value>//div[@id='pv_id_43']/div</value>
+      <webElementGuid>2b4a2f17-6950-46d7-9725-8563c9f03d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Option'])[1]/preceding::div[1]</value>
-      <webElementGuid>923c4d79-30b6-4884-82ff-609a101b2efd</webElementGuid>
+      <webElementGuid>8ceee356-14f8-4163-a699-0d4fb37aec88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Attachment'])[2]/preceding::div[1]</value>
-      <webElementGuid>12e22958-853a-421e-9cc4-93477767232c</webElementGuid>
+      <webElementGuid>49117eb4-c8c2-4e80-8edd-f0d39fea5a5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +83,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div</value>
-      <webElementGuid>f97b20f6-f45f-4550-8a42-e89d23fac538</webElementGuid>
+      <webElementGuid>1f8b131e-548f-4607-844c-fdc19f06ce29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_31']/div</value>
+      <webElementGuid>fd72f530-f353-4ae5-8230-dc257f67d642</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

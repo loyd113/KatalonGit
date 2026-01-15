@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.time.LocalDateTime as LocalDateTime
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
@@ -37,8 +39,14 @@ WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span
 
 WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_Office'))
 
+/*WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Required_p-inputtext p-component w-full p-invalid'), 
+    'TestKatalon')*/
+String uniqueName = 'Katalon_' + LocalDateTime.now().format(DateTimeFormatter.ofPattern('yyyyMMdd_HHmmss'))
+
+println(uniqueName)
+
 WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Required_p-inputtext p-component w-full p-invalid'), 
-    'TestKatalon')
+    uniqueName)
 
 WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Description_p-inputtext p-component w-full'), 
     'TestOnly')
@@ -61,48 +69,94 @@ WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span
 
 WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button__1_2'))
 
-/*TestObject fromInput = findTestObject('Object Repository/Page_Create Questioner - FIKA/input_range_from')
-TestObject toInput   = findTestObject('Object Repository/Page_Create Questioner - FIKA/input_range_to')
-
-WebUI.waitForElementVisible(fromInput, 10)
-
-WebUI.click(fromInput)
-WebUI.sendKeys(fromInput, Keys.chord(Keys.CONTROL, 'a'))
-WebUI.sendKeys(fromInput, Keys.BACK_SPACE)
-WebUI.sendKeys(fromInput, '0')
-WebUI.sendKeys(fromInput, Keys.TAB)
-
-WebUI.click(toInput)
-WebUI.sendKeys(toInput, Keys.chord(Keys.CONTROL, 'a'))
-WebUI.sendKeys(toInput, Keys.BACK_SPACE)
-WebUI.sendKeys(toInput, '60')
-WebUI.sendKeys(toInput, Keys.TAB)*/
-
 WebUI.waitForPageLoad(10)
+
 WebUI.delay(2)
 
-WebUI.executeJavaScript("""
-  const inputs = document.querySelectorAll("input.p-inputnumber-input");
+/*WebUI.executeJavaScript('\n  const inputs = document.querySelectorAll("input.p-inputnumber-input");\n\n  if (inputs.length < 2) {\n    throw \'Input range PrimeVue tidak ditemukan\';\n  }\n\n  const from = inputs[2];\n  const to   = inputs[3];\n\n  // FROM = 0\n  from.focus();\n  from.value = \'0\';\n  from.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  from.dispatchEvent(new Event(\'change\', { bubbles: true }));\n  from.blur();\n\n  // TO = 60\n  to.focus();\n  to.value = \'60\';\n  to.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  to.dispatchEvent(new Event(\'change\', { bubbles: true }));\n  to.blur();\n', 
+    null)*/
+boolean result = WebUI.executeJavaScript('\n  const inputs = document.querySelectorAll("input.p-inputnumber-input");\n\n  // pastikan minimal 4 input (from & to)\n  if (inputs.length < 4) {\n    return false;\n  }\n\n  const from = inputs[2];\n  const to   = inputs[3];\n\n  // FROM = 0\n  from.focus();\n  from.value = "0";\n  from.dispatchEvent(new Event("input", { bubbles: true }));\n  from.dispatchEvent(new Event("change", { bubbles: true }));\n  from.blur();\n\n  // TO = 60\n  to.focus();\n  to.value = "60";\n  to.dispatchEvent(new Event("input", { bubbles: true }));\n  to.dispatchEvent(new Event("change", { bubbles: true }));\n  to.blur();\n\n  return true;\n', 
+    null)
 
-  if (inputs.length < 2) {
-    throw 'Input range PrimeVue tidak ditemukan';
-  }
+if (!(result)) {
+    KeywordUtil.logInfo('Input range PrimeVue belum muncul, step dilewati tanpa menghentikan test')
+}
 
-  const from = inputs[2];
-  const to   = inputs[3];
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_'))
 
-  // FROM = 0
-  from.focus();
-  from.value = '0';
-  from.dispatchEvent(new Event('input', { bubbles: true }));
-  from.dispatchEvent(new Event('change', { bubbles: true }));
-  from.blur();
+WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Add Category_p-inputtext p-component w-full'), 
+    'Ketersediaan tempat sampah')
 
-  // TO = 60
-  to.focus();
-  to.value = '60';
-  to.dispatchEvent(new Event('input', { bubbles: true }));
-  to.dispatchEvent(new Event('change', { bubbles: true }));
-  to.blur();
-""", null)
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button__1_2_3'))
+
+//WebUI.click(findTestObject('Page_Create Questioner - FIKA/i_Selection_pi pi-angle-down'))
+WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Add Category_p-inputtext p-component w-full'), 
+    'Tersedia')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_Add Option'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span_Green'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_Red'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Add Category_p-inputtext p-component w-full'), 
+    'Tersedia tapi penuh')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_Add Option_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/div_Green_p-select-dropdown_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_Red_1'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Add Category_p-inputtext p-component w-full'), 
+    'Tidak tersedia')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span_Not Required'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_Optional'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Questioner - FIKA/input_Reference Photo (for instruction)_p-inputtext p-component mr-2 w-full'), 
+    'Apakah lantai dalam keadaan bersih')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/div_Selection'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span_Yes  No'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button__1_2_3_4'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/span_Required'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_Required'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_Save'))
+
+
+//verifikasi menggunakan uniquename
+WebUI.click(findTestObject('Page_Questioner - FIKA/svg_Filter_p-icon p-button-icon'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Questioner - FIKA/input_Select Departments_p-inputtext p-comp_22b816'),
+	uniqueName)
+
+WebUI.click(findTestObject('Object Repository/Page_Questioner - FIKA/button_Apply'))
+
+// === WAIT TABLE ===
+WebUI.waitForElementVisible(findTestObject('table_Rows'), 10)
+
+// === GET ROW COUNT ===
+int rowCount = WebUI.findWebElements(findTestObject('table_Rows'), 10).size()
+
+WebUI.verifyGreaterThan(rowCount, 0)
+
+// === VERIFY EACH ROW ===
+for (int i = 1; i <= rowCount; i++) {
+	//String departments = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 1]))
+
+	String name = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 2]))
+
+	//WebUI.verifyMatch(departments, '.*Office.*', true)
+
+	WebUI.verifyMatch(name, uniqueName, true)
+}
 

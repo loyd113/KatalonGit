@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_empty_p-icon p-multiselect-dropdown-icon</name>
+   <tag></tag>
+   <elementGuidId>3c1123dc-854e-4f73-9dfe-fa2722e8d79a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.p-icon.p-multiselect-dropdown-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>05774e14-25d5-4872-8e6b-597abdf6814a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>e9b24533-77ce-4b20-99c3-a8fdc0363eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>539ba6c2-e098-4ed4-a8e5-09b7a1bb1817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>e7bac6fb-62e3-4347-8ba9-a633d556b121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>484ef967-6a3f-4a19-ad49-f571d3fbf3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2c6a3107-86c1-41a9-921c-4e6440997e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon p-multiselect-dropdown-icon</value>
+      <webElementGuid>60d89407-a6be-4f4e-bcd4-ddaec27766bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>65fbcab1-a1e2-4661-b794-5299d98995dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdownicon</value>
+      <webElementGuid>83aff5d5-ac37-4b85-aafa-1746be24bc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_6_content&quot;)/div[@class=&quot;p-panel-content&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-6&quot;]/div[1]/span[@class=&quot;p-floatlabel p-floatlabel-on&quot;]/div[@class=&quot;p-multiselect p-component p-inputwrapper w-full&quot;]/div[@class=&quot;p-multiselect-dropdown&quot;]/svg[@class=&quot;p-icon p-multiselect-dropdown-icon&quot;]</value>
+      <webElementGuid>01ba83be-1809-4375-b0d0-bc864e19bfaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d4276f04-524b-4ed8-8115-15086c17cdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Departments'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>fc52d1c2-ae8c-4335-9189-c6a832f9089d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Name'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7c952bec-81b9-4b80-8bd7-2eb97426b7cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

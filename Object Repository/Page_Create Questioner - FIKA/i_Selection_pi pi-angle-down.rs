@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Selection_pi pi-angle-down</name>
+   <tag></tag>
+   <elementGuidId>b8a1e148-54dd-46c5-b662-b6410ace79d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='pv_id_59_header']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>76edb44a-86a2-423f-b77d-7acbe516af1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-angle-down</value>
+      <webElementGuid>98707894-dff2-4820-b7f9-1537ca7acba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_59_header&quot;)/i[@class=&quot;pi pi-angle-down&quot;]</value>
+      <webElementGuid>98e02b49-057f-4642-b3c1-43021899a8c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='pv_id_59_header']/i</value>
+      <webElementGuid>95521623-379e-4d8a-a64e-de2241594d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button[2]/i</value>
+      <webElementGuid>be49ad10-2b6d-4124-aa6f-ca7cd0ab5117</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

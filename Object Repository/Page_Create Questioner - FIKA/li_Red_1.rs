@@ -6,32 +6,36 @@
    <elementGuidId>103a115b-a8f8-4329-8a73-3b4bd8ac3102</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='pv_id_31_1']</value>
+         <key>BASIC</key>
+         <value>//li[@aria-label = 'Red' and (text() = 'Red' or . = 'Red')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#pv_id_31_1</value>
+         <value>#pv_id_43_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pv_id_43_1']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>d1b4b7c3-8b54-48a7-92ef-afc7ab65d570</webElementGuid>
+      <webElementGuid>aa82556a-13e5-424e-8837-888e83c365c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>pv_id_31_1</value>
-      <webElementGuid>c97139f9-0f03-461f-adeb-cf2d8e951e3d</webElementGuid>
+      <value>pv_id_43_1</value>
+      <webElementGuid>d93bed52-6e5b-4cc0-98a9-55a220e6e9a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-select-option</value>
-      <webElementGuid>a3363deb-658a-4f09-b513-973d70dd9d23</webElementGuid>
+      <webElementGuid>d186a2e3-6ab4-475c-b8fc-f891cf983f19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +51,15 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>cfe6a552-fc55-4958-9c4e-756ff9666d7b</webElementGuid>
+      <webElementGuid>fd8cff95-695d-4dd7-931a-4baef791234c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
       <value>Red</value>
-      <webElementGuid>88f8a79c-dc2c-4ac4-a4db-2bf33aea4144</webElementGuid>
+      <webElementGuid>a2700329-ce30-4ce6-bccd-6ea2564eed74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>547c689b-3493-4c76-956d-b4a594586481</webElementGuid>
+      <webElementGuid>d4f43bed-e4f3-435a-a29a-60e670efcae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4251b9f2-67ee-412e-9197-c12e710b9f10</webElementGuid>
+      <webElementGuid>b05ad873-4b5e-416e-a968-8bc7123b0563</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>aria-setsize</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>edfb52ba-ec45-496f-ad30-98062a4017f7</webElementGuid>
+      <webElementGuid>2e1c079f-2b5a-4bd8-8659-4e428898e053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>aria-posinset</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>d6b7ca82-27c8-4435-ad52-9e484ea26819</webElementGuid>
+      <webElementGuid>1a832d70-8138-4065-8a12-9601814c8e78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>data-p-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2eae1549-571e-4a35-838f-554b4a9c0234</webElementGuid>
+      <webElementGuid>f0cb1e4f-5eb6-4352-a643-a65fbe112c11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>data-p-focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cc4c4a71-7847-4503-aa31-15481bece137</webElementGuid>
+      <webElementGuid>61ec58c7-8af0-4363-a091-cf97ab83a23f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8938394f-3106-47ef-a4e7-c431172044dd</webElementGuid>
+      <webElementGuid>5e8efc36-7b34-42ab-a8cc-6ba2f29a27cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>65aa5560-97a0-45a8-978e-58befdd3a391</webElementGuid>
+      <webElementGuid>97aa11eb-929c-46ba-886a-2565e9889f3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -127,31 +131,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Red</value>
-      <webElementGuid>e91bfff5-ba5d-4589-92bd-3c6a1b0ed643</webElementGuid>
+      <webElementGuid>d9c37641-ae96-44ce-b872-beb86a26a809</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pv_id_31_1&quot;)</value>
-      <webElementGuid>1a61676d-9409-4d1a-a5b0-b91f5f21954b</webElementGuid>
+      <value>id(&quot;pv_id_43_1&quot;)</value>
+      <webElementGuid>87db633b-a010-4bde-afc4-8690e126894f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='pv_id_31_1']</value>
-      <webElementGuid>7f43fb52-25aa-456b-ada9-e6f66bc7ba87</webElementGuid>
+      <value>//li[@id='pv_id_43_1']</value>
+      <webElementGuid>5afcb528-a79e-409b-a34e-a97bff273162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='pv_id_31_list']/li[2]</value>
-      <webElementGuid>090e560f-6892-42da-ac87-1621beff158e</webElementGuid>
+      <value>//ul[@id='pv_id_43_list']/li[2]</value>
+      <webElementGuid>ce131a3a-49f8-476e-9ec1-d9f14694032b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +163,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/ul/li[2]</value>
-      <webElementGuid>ec5ae741-7933-4922-8341-69c3dcf36b35</webElementGuid>
+      <webElementGuid>df3ea9a1-ff02-450b-b17f-211753d6f2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'pv_id_43_1' and (text() = 'Red' or . = 'Red')]</value>
+      <webElementGuid>c65a745b-cc73-4133-8fbc-f336dad980eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='pv_id_31_1']</value>
+      <webElementGuid>27a5f322-ca30-4a26-81af-77695c694e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pv_id_31_list']/li[2]</value>
+      <webElementGuid>4b4132b7-4a9e-4e3c-8408-13df7efb9639</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +195,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'pv_id_31_1' and (text() = 'Red' or . = 'Red')]</value>
-      <webElementGuid>be1421e6-77a6-4bea-b6c4-326071aea929</webElementGuid>
+      <webElementGuid>8a86a6b4-63b8-44ea-89c6-f42abc99a403</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

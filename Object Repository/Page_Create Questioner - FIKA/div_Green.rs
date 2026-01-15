@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Green</name>
+   <tag></tag>
+   <elementGuidId>2eb52589-19e1-4c6b-bfcf-a2de17a16340</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_27']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_27 > span.p-select-label > div.flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b2f3f83-ac81-4b23-9499-41ea5c574bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center</value>
+      <webElementGuid>baf10193-08be-433d-881e-75e80ff30815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Green</value>
+      <webElementGuid>56e4c6ec-b144-4a2b-9e9b-8ae0cd404ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_27&quot;)/span[@class=&quot;p-select-label&quot;]/div[@class=&quot;flex align-items-center&quot;]</value>
+      <webElementGuid>3f7556cd-a753-4f62-8d31-ac10ff9f390b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_27']/span/div</value>
+      <webElementGuid>e3eb71b2-7bee-412e-941b-b5f94a09928b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection Answer'])[2]/following::div[8]</value>
+      <webElementGuid>bac36f00-809b-4b18-992b-f2ea6deb5f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Option'])[2]/preceding::div[2]</value>
+      <webElementGuid>46d208f7-f6f5-40f1-b25a-cfd18cc7f0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/div</value>
+      <webElementGuid>0ee8c19c-e43e-4077-927a-3d82bbf47f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Green' or . = 'Green')]</value>
+      <webElementGuid>c86930bd-3538-4160-9add-f0ee161159a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
