@@ -19,17 +19,7 @@ import org.openqa.selenium.Keys as Keys
 import java.time.LocalDateTime as LocalDateTime
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://fika.infonetglobal.tech/en/login')
-
-WebUI.setText(findTestObject('Object Repository/Page_Login - FIKA/input_Email_p-inputtext p-component block px-4 py-3.5 w-full'), 
-    'admin@fika.app')
-
-WebUI.setText(findTestObject('Object Repository/Page_Login - FIKA/input_Password_p-inputtext p-component block px-4 py-3.5 w-full (1)'), 
-    'welcome123')
-
-WebUI.click(findTestObject('Object Repository/Page_Login - FIKA/button_Login'))
+WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Home - FIKA/a_Questioner'))
 
@@ -132,12 +122,11 @@ WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/li_R
 
 WebUI.click(findTestObject('Object Repository/Page_Create Questioner - FIKA/button_Save'))
 
-
 //verifikasi menggunakan uniquename
 WebUI.click(findTestObject('Page_Questioner - FIKA/svg_Filter_p-icon p-button-icon'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Questioner - FIKA/input_Select Departments_p-inputtext p-comp_22b816'),
-	uniqueName)
+WebUI.setText(findTestObject('Object Repository/Page_Questioner - FIKA/input_Select Departments_p-inputtext p-comp_22b816'), 
+    uniqueName)
 
 WebUI.click(findTestObject('Object Repository/Page_Questioner - FIKA/button_Apply'))
 
@@ -151,12 +140,10 @@ WebUI.verifyGreaterThan(rowCount, 0)
 
 // === VERIFY EACH ROW ===
 for (int i = 1; i <= rowCount; i++) {
-	//String departments = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 1]))
+    //String departments = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 1]))
+    String name = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 2]))
 
-	String name = WebUI.getText(findTestObject('td_Dynamic', [('row') : i, ('col') : 2]))
-
-	//WebUI.verifyMatch(departments, '.*Office.*', true)
-
-	WebUI.verifyMatch(name, uniqueName, true)
+    //WebUI.verifyMatch(departments, '.*Office.*', true)
+    WebUI.verifyMatch(name, uniqueName, true)
 }
 
