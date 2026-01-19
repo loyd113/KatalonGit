@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Issue AdminFilterMaintain BuildingSelec_612b54</name>
+   <tag></tag>
+   <elementGuidId>34302064-f988-4290-8ae5-495ffe6406bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43605219-0abc-4fd0-afb1-152649742801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-0 dark:relative min-h-screen w-full overflow-x-hidden transition-all duration-300 xl:max-w-[calc(100%_-_270px)] xl:ms-[270px]</value>
+      <webElementGuid>af1b9026-fc8f-411a-afeb-f84ae8094a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Issue AdminFilter Maintain BuildingSelect QuestionermediumSelect Priority Select StatusApplyResetQuestionerQuestionAnswerIssuePriorityCreated AtStatusMaintain BuildingApakah lantai dalam keadaan bersihNOlantai masih kotorhigh07 Jan 2026Close    Maintain BuildingApakah lantai dalam keadaan bersihNOlantai kotorlow16 Dec 2025Open    Maintain BuildingKetersediaan tempat sampahTidak tersediatempat sampah tidak adamedium11 Dec 2025Open    Inspeksi PabrikSuara mesinSuara berdengungsuara mesin berisikmedium20 Nov 2025Open    Inspeksi PabrikSuara mesinSuara berdengungmesin mengeluarkan suara tidak normallow13 Nov 2025Close    Inspeksi PabrikSuhu normal antara 20 - 60 derajat celcius70Mesin 70 derajat celciusmedium25 Aug 2025Close    Inspeksi PabrikSuara mesinSuara berdengungberdengunglow22 Aug 2025Close    FIKA DCBuka cover kipas dan bersihkan kipasNOkipas blm bersihlow07 Aug 2025Open    FIKA DCBersihkan motor (Cat ulang jika diperlukan)NOcat kotorlow05 Aug 2025Open    FIKA DCPastikan suara bearing motor tidak kasar NOsuara bearing masih kasarlow05 Aug 2025Open    123Loading 1 to 10 from total 28 10</value>
+      <webElementGuid>e3d9107d-86d2-410a-b5e0-267a0fdb161d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-slate-100&quot;]/div[@class=&quot;z-0 dark:relative min-h-screen w-full overflow-x-hidden transition-all duration-300 xl:max-w-[calc(100%_-_270px)] xl:ms-[270px]&quot;]</value>
+      <webElementGuid>7c601376-3814-4596-9578-51b8f4d7b3d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div[2]</value>
+      <webElementGuid>db495a66-3879-4ac6-984e-53aa2df9890f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>fd616014-9b16-4c65-a797-16d785210ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Issue AdminFilter Maintain BuildingSelect QuestionermediumSelect Priority Select StatusApplyResetQuestionerQuestionAnswerIssuePriorityCreated AtStatusMaintain BuildingApakah lantai dalam keadaan bersihNOlantai masih kotorhigh07 Jan 2026Close    Maintain BuildingApakah lantai dalam keadaan bersihNOlantai kotorlow16 Dec 2025Open    Maintain BuildingKetersediaan tempat sampahTidak tersediatempat sampah tidak adamedium11 Dec 2025Open    Inspeksi PabrikSuara mesinSuara berdengungsuara mesin berisikmedium20 Nov 2025Open    Inspeksi PabrikSuara mesinSuara berdengungmesin mengeluarkan suara tidak normallow13 Nov 2025Close    Inspeksi PabrikSuhu normal antara 20 - 60 derajat celcius70Mesin 70 derajat celciusmedium25 Aug 2025Close    Inspeksi PabrikSuara mesinSuara berdengungberdengunglow22 Aug 2025Close    FIKA DCBuka cover kipas dan bersihkan kipasNOkipas blm bersihlow07 Aug 2025Open    FIKA DCBersihkan motor (Cat ulang jika diperlukan)NOcat kotorlow05 Aug 2025Open    FIKA DCPastikan suara bearing motor tidak kasar NOsuara bearing masih kasarlow05 Aug 2025Open    123Loading 1 to 10 from total 28 10' or . = 'Issue AdminFilter Maintain BuildingSelect QuestionermediumSelect Priority Select StatusApplyResetQuestionerQuestionAnswerIssuePriorityCreated AtStatusMaintain BuildingApakah lantai dalam keadaan bersihNOlantai masih kotorhigh07 Jan 2026Close    Maintain BuildingApakah lantai dalam keadaan bersihNOlantai kotorlow16 Dec 2025Open    Maintain BuildingKetersediaan tempat sampahTidak tersediatempat sampah tidak adamedium11 Dec 2025Open    Inspeksi PabrikSuara mesinSuara berdengungsuara mesin berisikmedium20 Nov 2025Open    Inspeksi PabrikSuara mesinSuara berdengungmesin mengeluarkan suara tidak normallow13 Nov 2025Close    Inspeksi PabrikSuhu normal antara 20 - 60 derajat celcius70Mesin 70 derajat celciusmedium25 Aug 2025Close    Inspeksi PabrikSuara mesinSuara berdengungberdengunglow22 Aug 2025Close    FIKA DCBuka cover kipas dan bersihkan kipasNOkipas blm bersihlow07 Aug 2025Open    FIKA DCBersihkan motor (Cat ulang jika diperlukan)NOcat kotorlow05 Aug 2025Open    FIKA DCPastikan suara bearing motor tidak kasar NOsuara bearing masih kasarlow05 Aug 2025Open    123Loading 1 to 10 from total 28 10')]</value>
+      <webElementGuid>aa5ad122-f780-4b42-aed6-d6861b82c98d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

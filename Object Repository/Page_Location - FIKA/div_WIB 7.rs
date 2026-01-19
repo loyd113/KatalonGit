@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Location</name>
+   <name>div_WIB 7</name>
    <tag></tag>
-   <elementGuidId>198245fe-cc69-4c39-adc7-644e234e5af9</elementGuidId>
+   <elementGuidId>fe7b95ea-d291-4c28-93cb-82fd16aed801</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pv_id_1_content']/ul/li/ul/li[4]/a/span</value>
+         <value>//li[@id='pv_id_20_0']/div/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(4) > a > span</value>
+         <value>div.text-slate-500</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>bc0f932b-f938-41bb-ac88-5fb1736817f5</webElementGuid>
+      <value>div</value>
+      <webElementGuid>61034ceb-0a0b-401e-b52a-dc83708d6709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-slate-500</value>
+      <webElementGuid>73fca45c-d5d7-46ec-89f6-1b772a9dcae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Location</value>
-      <webElementGuid>ea636e3d-855e-4e26-b341-854910921c54</webElementGuid>
+      <value>WIB +7</value>
+      <webElementGuid>83e7e1b6-d779-4828-8670-eec894084293</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pv_id_1_content&quot;)/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;layout-menuitem-category&quot;]/ul[1]/li[4]/a[1]/span[1]</value>
-      <webElementGuid>deee6e84-573b-4b85-bff1-1fa4d2e07c18</webElementGuid>
+      <value>id(&quot;pv_id_20_0&quot;)/div[1]/div[@class=&quot;text-slate-500&quot;]</value>
+      <webElementGuid>0eddbfed-fdce-4d70-b964-13495d1ff242</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pv_id_1_content']/ul/li/ul/li[4]/a/span</value>
-      <webElementGuid>17e80cf8-1f48-47ce-922f-2e964e27b64f</webElementGuid>
+      <value>//li[@id='pv_id_20_0']/div/div[2]</value>
+      <webElementGuid>5accee28-6643-4bfd-a9a4-7c461445b5fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::span[1]</value>
-      <webElementGuid>d9e56034-d759-4564-a8e4-e14cc165657d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia/Jakarta'])[1]/following::div[1]</value>
+      <webElementGuid>117716c1-8c28-466d-83b9-86ddb5ea7a24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/following::span[2]</value>
-      <webElementGuid>f813f4b6-9ee5-4424-b5d8-7f0cf729bcd6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[5]</value>
+      <webElementGuid>48bed3ed-d7da-4694-876c-1a1ae1801d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='National Holiday'])[1]/preceding::span[1]</value>
-      <webElementGuid>c8174815-eaef-4530-ade0-c05bbddd4893</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia/Jayapura'])[1]/preceding::div[1]</value>
+      <webElementGuid>59094b4f-9be4-4b9d-a35d-42d838194a89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questioner'])[1]/preceding::span[2]</value>
-      <webElementGuid>fd858e2d-eac4-4f72-89ac-1e12e3a91bc7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIT +9'])[1]/preceding::div[2]</value>
+      <webElementGuid>b9d31179-e274-4e82-8e13-6183df25ace8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Location']/parent::*</value>
-      <webElementGuid>6852464f-37eb-476f-9a4d-1578a3f67a04</webElementGuid>
+      <value>//*/text()[normalize-space(.)='WIB +7']/parent::*</value>
+      <webElementGuid>ec1244c6-059c-457a-98a7-f6d720c72b89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a/span</value>
-      <webElementGuid>8426d246-be00-4466-b042-e25bfb0abb77</webElementGuid>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>af5cdaba-edd3-449f-99e2-687cfe51f8b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Location' or . = 'Location')]</value>
-      <webElementGuid>4600ea73-b601-49a4-a6d4-f1a1c66c83a7</webElementGuid>
+      <value>//div[(text() = 'WIB +7' or . = 'WIB +7')]</value>
+      <webElementGuid>5260bd4e-4109-465f-931d-a88076e14c50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
