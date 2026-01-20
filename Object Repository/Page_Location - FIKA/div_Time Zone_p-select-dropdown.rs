@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time Zone_p-select-dropdown</name>
+   <tag></tag>
+   <elementGuidId>bf9ecee7-b275-4098-8e55-80ac27b6f42c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_12 > div.p-select-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pv_id_12']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb8ed910-b9f9-4b75-9a9b-c1686b74a434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-select-dropdown</value>
+      <webElementGuid>c6b665e1-4eeb-4f8d-89ef-75f06cf26b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>ee57a442-24dc-4bb1-bbf3-9f754831057a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_12&quot;)/div[@class=&quot;p-select-dropdown&quot;]</value>
+      <webElementGuid>67db8030-1cc6-4c9c-acf4-4fd6fd26df7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pv_id_12']/div</value>
+      <webElementGuid>3f17e508-ed17-4bee-bd38-76ee81b04ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Zone'])[2]/following::div[3]</value>
+      <webElementGuid>5df1b844-86e0-40aa-b1f4-a8a4fa4b5108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::div[6]</value>
+      <webElementGuid>ea5ee43c-ec25-4a5d-9f1f-63a9f23da394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/preceding::div[1]</value>
+      <webElementGuid>d984409e-1fd4-401c-930d-1fe69eec7ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='altitude (meter)s'])[1]/preceding::div[4]</value>
+      <webElementGuid>93bbaf0c-a2d2-4704-8f93-ba5ae70e24f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div</value>
+      <webElementGuid>7974c95c-dac6-4052-bfec-9abc04dcada8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_Location - FIKA/button_'))
 
 WebUI.click(findTestObject('Object Repository/Page_Location - FIKA/div_empty'))
 
-WebUI.click(findTestObject('Object Repository/Page_Location - FIKA/li_Office'))
+WebUI.click(findTestObject('Page_Location - FIKA/li_Office (1)'))
 
 WebUI.setText(findTestObject('Page_Location - FIKA/input_Select Departments_p-inputtext p-component w-full'), 'off')
 

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Name_p-inputtext p-component w-full (1)</name>
+   <tag></tag>
+   <elementGuidId>37bc2aef-8b6d-431c-9bd7-380dda1fffba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text()='Name']/following::input[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @class = 'p-inputtext p-component w-full']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3e452822-3056-4e2f-893b-72b3ca84f7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5395ddc1-ad24-477b-94d5-e621379c5a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component w-full</value>
+      <webElementGuid>0e7af909-2b06-4b15-8702-75dcde15e4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>inputtext</value>
+      <webElementGuid>cdbc5a62-9d9d-4767-a284-9abc5ec49286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>af4c3a56-7edd-47bc-912e-505e853a06ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark-mode&quot;]/body[1]/div[@class=&quot;p-drawer-mask p-overlay-mask p-overlay-mask-enter p-drawer-open p-drawer-right&quot;]/div[@class=&quot;p-drawer p-component&quot;]/div[@class=&quot;p-drawer-content&quot;]/div[1]/form[1]/div[@class=&quot;w-full&quot;]/div[@class=&quot;md:flex md:items-center pb-2 mb-2 border-b border-slate-200&quot;]/div[@class=&quot;md:w-2/3&quot;]/input[@class=&quot;p-inputtext p-component w-full&quot;]</value>
+      <webElementGuid>cc53bf64-bd69-4f05-8a1f-4a399ebd1825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>41861162-3ea4-41a5-ab72-9df95967effc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/input</value>
+      <webElementGuid>025e2171-d150-4a7e-ae08-fb0b33729dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>79870dd5-b385-4010-b04e-2aff913622bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

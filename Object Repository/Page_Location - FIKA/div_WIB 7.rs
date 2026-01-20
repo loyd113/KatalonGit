@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='pv_id_20_0']/div/div[2]</value>
+         <value>(//span[normalize-space()='Asia/Jakarta'])[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>61034ceb-0a0b-401e-b52a-dc83708d6709</webElementGuid>
+      <webElementGuid>90757a9d-8d65-4b18-bfcc-172e6adc6c92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-slate-500</value>
-      <webElementGuid>73fca45c-d5d7-46ec-89f6-1b772a9dcae8</webElementGuid>
+      <webElementGuid>ee608597-0567-4699-87f6-1b66c2bb26d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>WIB +7</value>
-      <webElementGuid>83e7e1b6-d779-4828-8670-eec894084293</webElementGuid>
+      <webElementGuid>ebdb27f4-ebeb-4cfb-ae3f-2258c9467842</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pv_id_20_0&quot;)/div[1]/div[@class=&quot;text-slate-500&quot;]</value>
-      <webElementGuid>0eddbfed-fdce-4d70-b964-13495d1ff242</webElementGuid>
+      <webElementGuid>37b9c713-a458-4b2a-b052-94aaa7b63304</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='pv_id_20_0']/div/div[2]</value>
-      <webElementGuid>5accee28-6643-4bfd-a9a4-7c461445b5fc</webElementGuid>
+      <webElementGuid>745cd88f-b43e-44c1-bd95-aad103a88c7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia/Jakarta'])[1]/following::div[1]</value>
-      <webElementGuid>117716c1-8c28-466d-83b9-86ddb5ea7a24</webElementGuid>
+      <webElementGuid>6bef1d77-04f7-4a07-91cd-9088bbc8db37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[5]</value>
-      <webElementGuid>48bed3ed-d7da-4694-876c-1a1ae1801d4d</webElementGuid>
+      <webElementGuid>cb6719ff-9451-487a-9ea4-86ee43271722</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia/Jayapura'])[1]/preceding::div[1]</value>
-      <webElementGuid>59094b4f-9be4-4b9d-a35d-42d838194a89</webElementGuid>
+      <webElementGuid>9b345606-08d6-421c-9f57-e660947bcad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WIT +9'])[1]/preceding::div[2]</value>
-      <webElementGuid>b9d31179-e274-4e82-8e13-6183df25ace8</webElementGuid>
+      <webElementGuid>9fbf4232-5feb-45ed-a802-2ddd8d664046</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='WIB +7']/parent::*</value>
-      <webElementGuid>ec1244c6-059c-457a-98a7-f6d720c72b89</webElementGuid>
+      <webElementGuid>f65f08e5-d722-4ef6-bba4-93e978d2e096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div[2]</value>
-      <webElementGuid>af5cdaba-edd3-449f-99e2-687cfe51f8b4</webElementGuid>
+      <webElementGuid>2154471e-e112-4d55-824b-e7e46a3a0c80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'WIB +7' or . = 'WIB +7')]</value>
-      <webElementGuid>5260bd4e-4109-465f-931d-a88076e14c50</webElementGuid>
+      <webElementGuid>97d61c09-a02d-43ec-ac21-c53fbb49b417</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
